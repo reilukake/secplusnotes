@@ -1,5 +1,5 @@
 # secplusnotes
-Links backlogged during studying for sec+
+Links backlogged during studying for CompTIA Security+
 
 ## Networking
 Understanding Class A Network addresses: https://www.ccnahub.com/ip-fundamentals/understanding-class-a-network-ip-addresses/
