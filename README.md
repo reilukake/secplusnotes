@@ -20,6 +20,7 @@ Links backlogged during studying for CompTIA Security+
 - National vulnerability Datbase: https://nvd.nist.gov/
 - Mitre vulnerability database: https://cve.mitre.org/
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
+- Exploit Database: https://www.exploit-db.com/
 
 
 ## Security templates
@@ -55,6 +56,7 @@ Links backlogged during studying for CompTIA Security+
 - Home SIEM: https://dfirmadness.com/building-a-siem-at-home/
 - Suricata and Splunk tutorial: https://hurricanelabs.com/splunk-tutorials/your-all-in-one-guide-to-setting-up-pfsense-and-suricata-in-splunk/
 - Snort: https://www.snort.org/downloads
+- Awesome Security list: https://github.com/sbilly/awesome-security
 
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
