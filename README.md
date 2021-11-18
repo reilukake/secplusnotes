@@ -27,6 +27,7 @@ Links backlogged during studying for CompTIA Security+
 ## Security templates
 - NSA Security configuration templates: https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/
 - CIS Critical Security Rules: https://www.cisecurity.org/cis-benchmarks/
+- Benchmarks download link: https://downloads.cisecurity.org/#/
 
 ## Policy and agreement templates and guidelines
 - Data Processing Agreement template: https://gdpr.eu/data-processing-agreement/
