@@ -8,6 +8,7 @@ Links backlogged during studying for CompTIA Security+
 
 ## Information security standards
 - ISO IEC 270001: https://www.iso.org/isoiec-27001-information-security.html
+- ISO IEC 270001 information: https://advisera.com/27001academy/what-is-iso-27001/
 - ISO ISO 31000: https://www.iso.org/iso-31000-risk-management.html
 
 ## Security Architechture
