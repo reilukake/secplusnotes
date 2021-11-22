@@ -1,5 +1,5 @@
-# secplusnotes
-Links backlogged during studying for CompTIA Security+
+# Notes for Security+ & Home lab
+Links backlogged during studying for CompTIA Security+. Also links for homelab project
 
 ## Networking
 - Understanding Class A Network addresses: https://www.ccnahub.com/ip-fundamentals/understanding-class-a-network-ip-addresses/
@@ -17,6 +17,7 @@ Links backlogged during studying for CompTIA Security+
 
 ## Normalization and hardening
 - Database normalization: https://en.m.wikipedia.org/wiki/Database_normalization
+- Cert BFF Basic Fuzzing Framework: https://vuls.cert.org/confluence/display/tools/CERT+BFF+-+Basic+Fuzzing+Framework
 
 ## Vulnerability
 - National vulnerability Datbase: https://nvd.nist.gov/
@@ -63,3 +64,9 @@ Links backlogged during studying for CompTIA Security+
 
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
+
+# Homelab
+- Proxmox virtualisation guide: https://medium.com/devops-dudes/proxmox-101-8204eb154cd5
+- Proxmox virtualisation guide 2: https://linustechtips.com/topic/1083818-a-beginners-guide-to-proxmox/
+- OpenWrt project: https://openwrt.org/
+- Proxmox with Opnsense: https://homenetworkguy.com/how-to/run-opnsense-in-proxmox-vm/
