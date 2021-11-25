@@ -18,6 +18,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 ## Normalization and hardening
 - Database normalization: https://en.m.wikipedia.org/wiki/Database_normalization
 - Cert BFF Basic Fuzzing Framework: https://vuls.cert.org/confluence/display/tools/CERT+BFF+-+Basic+Fuzzing+Framework
+- Android SELinux: https://source.android.com/security/selinux
 
 ## Vulnerability
 - National vulnerability Datbase: https://nvd.nist.gov/
@@ -36,6 +37,8 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Business Policy Agreement template: https://nygpadmin.cce.cornell.edu/uploads/doc_4.pdf
 - Interconnection Security Agreement: https://csrc.nist.gov/glossary/term/interconnection_security_agreement
 - Service Level Agreement template: https://www.bmc.com/blogs/sla-template-examples/
+- COOP Brochure: https://www.fema.gov/pdf/about/org/ncp/coop_brochure.pdf
+- Intrusion Detection Diamond model: https://apps.dtic.mil/sti/citations/ADA586960
 
 ## Windows related tools
 - Microsoft endpoint manager: https://www.microsoft.com/en-us/security/business/microsoft-endpoint-manager
@@ -56,6 +59,9 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Security certification roadmap: https://pauljerimy.com/security-certification-roadmap/
 - OWASP: https://owasp.org/membership/
 - eJPT Cert: https://elearnsecurity.com/product/ejpt-certification/
+
+## Cryptography
+- MicroSD HSM: https://www.smartcard-hsm.com/ 
 
 ## Homelab setups and programs
 - Security Onion Solutions: https://securityonionsolutions.com/
