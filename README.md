@@ -43,6 +43,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 ## Autopsy and forensics
 - Sleuthkit forensics tool: https://sleuthkit.org/
 - FTK Forensic tool: https://www.exterro.com/forensic-toolkit
+- CFReDS Portal - Forensic reference: https://cfreds.nist.gov/
 
 ## Online tools
 - Virustotal Online virus scanner: https://www.virustotal.com/gui/home/upload
@@ -50,6 +51,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 
 ## Other tools and links
 - Cuckoo malware sandbox: https://cuckoosandbox.org/
+- Cuckoo malware sandbox online: https://cuckoo.cert.ee/
 - Blueteam homelabs git list: https://github.com/aboutsecurity/blueteam_homelabs
 - Security certification roadmap: https://pauljerimy.com/security-certification-roadmap/
 - OWASP: https://owasp.org/membership/
@@ -61,6 +63,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Suricata and Splunk tutorial: https://hurricanelabs.com/splunk-tutorials/your-all-in-one-guide-to-setting-up-pfsense-and-suricata-in-splunk/
 - Snort: https://www.snort.org/downloads
 - Awesome Security list: https://github.com/sbilly/awesome-security
+- OpenVAS Vulnerability scanner: https://openvas.org/
 
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
