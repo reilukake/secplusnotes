@@ -26,6 +26,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Mitre vulnerability database: https://cve.mitre.org/
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
 - Exploit Database: https://www.exploit-db.com/
+- Lockheed Martin Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
 
 ## Logging
 - NXLog (Used with SIEM): https://nxlog.co/
