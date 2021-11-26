@@ -14,6 +14,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 ## Security Architechture
 - Endpoint security whitepaper: https://www.checkpoint.com/downloads/products/checkpoint-enterprise-security-framework-whitepaper.pdf
 - Vulnerability Management Maturity Model: https://www.sans.org/blog/vulnerability-management-maturity-model/
+- Incident response playbooks: https://www.incidentresponse.com/playbooks/
 
 ## Normalization and hardening
 - Database normalization: https://en.m.wikipedia.org/wiki/Database_normalization
@@ -26,6 +27,11 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
 - Exploit Database: https://www.exploit-db.com/
 
+## Logging
+- NXLog (Used with SIEM): https://nxlog.co/
+- Syslog-ng: https://www.syslog-ng.com/
+- rsyslog: https://www.rsyslog.com/
+- sFlow traffic monitoring: https://sflow.org/sFlowOverview.pdf
 
 ## Security templates
 - NSA Security configuration templates: https://apps.nsa.gov/iaarchive/library/ia-guidance/security-configuration/
@@ -70,6 +76,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Snort: https://www.snort.org/downloads
 - Awesome Security list: https://github.com/sbilly/awesome-security
 - OpenVAS Vulnerability scanner: https://openvas.org/
+- AlienVault OSSIM SIEM: https://cybersecurity.att.com/products/ossim
 
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
