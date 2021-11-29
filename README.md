@@ -5,11 +5,18 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Understanding Class A Network addresses: https://www.ccnahub.com/ip-fundamentals/understanding-class-a-network-ip-addresses/
 - What is an OSI model?: https://www.cloudflare.com/en-gb/learning/ddos/glossary/open-systems-interconnection-model-osi/
 
+## Privacy
+- Electronic Discovery Reference Model (EDRM): https://edrm.net/
+- 
 
-## Information security standards
+## Information security standards, guidelines etc
 - ISO IEC 270001: https://www.iso.org/isoiec-27001-information-security.html
 - ISO IEC 270001 information: https://advisera.com/27001academy/what-is-iso-27001/
 - ISO ISO 31000: https://www.iso.org/iso-31000-risk-management.html
+- Washington state Electronic signature guidelines: https://ocio.wa.gov/policy/electronic-signature-guidelines
+- IT Risk register: https://library.educause.edu/resources/2015/10/it-risk-register
+- NIST Risk Management Framework: https://csrc.nist.gov/Projects/risk-management/about-rmf
+- VISA What to do if compromised: https://usa.visa.com/content/dam/VCOM/download/merchants/cisp-what-to-do-if-compromised.pdf
 
 ## Security Architechture
 - Endpoint security whitepaper: https://www.checkpoint.com/downloads/products/checkpoint-enterprise-security-framework-whitepaper.pdf
@@ -46,6 +53,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Service Level Agreement template: https://www.bmc.com/blogs/sla-template-examples/
 - COOP Brochure: https://www.fema.gov/pdf/about/org/ncp/coop_brochure.pdf
 - Intrusion Detection Diamond model: https://apps.dtic.mil/sti/citations/ADA586960
+- Master Service Agreement (MSA): https://www.upcounsel.com/master-service-agreement
 
 ## Windows related tools
 - Microsoft endpoint manager: https://www.microsoft.com/en-us/security/business/microsoft-endpoint-manager
@@ -54,6 +62,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Sleuthkit forensics tool: https://sleuthkit.org/
 - FTK Forensic tool: https://www.exterro.com/forensic-toolkit
 - CFReDS Portal - Forensic reference: https://cfreds.nist.gov/
+- OpenText EnCase: https://security.opentext.com/encase-forensic
 
 ## Online tools
 - Virustotal Online virus scanner: https://www.virustotal.com/gui/home/upload
