@@ -7,7 +7,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 
 ## Privacy
 - Electronic Discovery Reference Model (EDRM): https://edrm.net/
-- 
+
 
 ## Information security standards, guidelines etc
 - ISO IEC 270001: https://www.iso.org/isoiec-27001-information-security.html
@@ -39,14 +39,20 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 ## Auditing
 - Packetbomb wireshark packet analysis tutorials: https://packetbomb.com/
 - Malware traffic analysis: https://www.malware-traffic-analysis.net/
+
+
 ## Android and IoT
 - Android CVE vulnerability list: https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/cvssscoremin-9/cvssscoremax-/Google-Android.html
+
+
 ## OSINT
 - MX Toolbox: https://mxtoolbox.com/
 - Spiderfoot OSINT automation: https://www.spiderfoot.net/
 - OSINT Framework: https://osintframework.com/
 - Bellingcat research collective: https://www.bellingcat.com/
 - OSINT thread on reddit: https://www.reddit.com/r/OSINT/comments/c90jg7/what_are_some_good_ol_osint_tool_you_use_and_more/
+
+
 ## Logging
 - NXLog (Used with SIEM): https://nxlog.co/
 - Syslog-ng: https://www.syslog-ng.com/
