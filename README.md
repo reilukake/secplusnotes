@@ -17,6 +17,8 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - IT Risk register: https://library.educause.edu/resources/2015/10/it-risk-register
 - NIST Risk Management Framework: https://csrc.nist.gov/Projects/risk-management/about-rmf
 - VISA What to do if compromised: https://usa.visa.com/content/dam/VCOM/download/merchants/cisp-what-to-do-if-compromised.pdf
+- KATAKRI guidelines: https://um.fi/documents/35732/0/Katakri+-+2020_1218.pdf/ab9c2d4a-5031-3670-6743-3f8921dce8c9?t=1608302599246
+- VAHTI guidelines: https://www.suomidigi.fi/sites/default/files/2020-06/VM_25_2017.pdf
 
 ## Security Architechture
 - Endpoint security whitepaper: https://www.checkpoint.com/downloads/products/checkpoint-enterprise-security-framework-whitepaper.pdf
@@ -34,7 +36,17 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
 - Exploit Database: https://www.exploit-db.com/
 - Lockheed Martin Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
-
+## Auditing
+- Packetbomb wireshark packet analysis tutorials: https://packetbomb.com/
+- Malware traffic analysis: https://www.malware-traffic-analysis.net/
+## Android and IoT
+- Android CVE vulnerability list: https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/cvssscoremin-9/cvssscoremax-/Google-Android.html
+## OSINT
+- MX Toolbox: https://mxtoolbox.com/
+- Spiderfoot OSINT automation: https://www.spiderfoot.net/
+- OSINT Framework: https://osintframework.com/
+- Bellingcat research collective: https://www.bellingcat.com/
+- OSINT thread on reddit: https://www.reddit.com/r/OSINT/comments/c90jg7/what_are_some_good_ol_osint_tool_you_use_and_more/
 ## Logging
 - NXLog (Used with SIEM): https://nxlog.co/
 - Syslog-ng: https://www.syslog-ng.com/
@@ -57,6 +69,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 
 ## Windows related tools
 - Microsoft endpoint manager: https://www.microsoft.com/en-us/security/business/microsoft-endpoint-manager
+- Windows Shellbags: https://www.magnetforensics.com/blog/forensic-analysis-of-windows-shellbags/
 
 ## Autopsy and forensics
 - Sleuthkit forensics tool: https://sleuthkit.org/
@@ -76,8 +89,12 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - OWASP: https://owasp.org/membership/
 - eJPT Cert: https://elearnsecurity.com/product/ejpt-certification/
 
-## Cryptography
+## Cryptography and hashing
 - MicroSD HSM: https://www.smartcard-hsm.com/ 
+- Keybase End-to-End encryption: https://keybase.io/
+- CyberChef online tool: https://gchq.github.io/CyberChef/
+- SSL Inspection explained: https://www.secucloud.com/ssl-inspection/
+- SSL Inspection explained 2: https://docs.fortinet.com/document/fortigate/6.2.10/cookbook/929997/ssl-inspection
 
 ## Homelab setups and programs
 - Security Onion Solutions: https://securityonionsolutions.com/
@@ -87,12 +104,22 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Awesome Security list: https://github.com/sbilly/awesome-security
 - OpenVAS Vulnerability scanner: https://openvas.org/
 - AlienVault OSSIM SIEM: https://cybersecurity.att.com/products/ossim
+- FoxyProxy Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
+- Security Onion & Proxmox SPAN: https://beyondtheory.io/blog/virtualization/security-onion-proxmox/
 
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
+- Guide to Obsidian.md: https://www.youtube.com/watch?v=47hOfPGsrqk
 
 # Homelab
 - Proxmox virtualisation guide: https://medium.com/devops-dudes/proxmox-101-8204eb154cd5
 - Proxmox virtualisation guide 2: https://linustechtips.com/topic/1083818-a-beginners-guide-to-proxmox/
 - OpenWrt project: https://openwrt.org/
 - Proxmox with Opnsense: https://homenetworkguy.com/how-to/run-opnsense-in-proxmox-vm/
+- GL AR150 documentation: https://oldwiki.archive.openwrt.org/toh/gl-inet/gl-ar150
+- WiFi Pineapple with GL AR150: https://medium.com/@tomac/install-openwrt-or-pine-apple-on-low-cost-wifi-router-67cbd26a1a15
+
+
+# Uncategorized (for now)
+- Domain Generation Algorithms (DGA): https://unit42.paloaltonetworks.com/threat-brief-understanding-domain-generation-algorithms-dga/
+- SecLists security fuzzer: https://github.com/danielmiessler/SecLists
