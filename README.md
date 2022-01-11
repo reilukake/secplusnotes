@@ -1,4 +1,5 @@
-# Notes for Security+ & Home lab
+# Notes for Security+ & Home lab.
+## Links marked with [*] were found during CySA+ Studies
 Links backlogged during studying for CompTIA Security+. Also links for homelab project
 
 ## Networking
@@ -20,6 +21,9 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - KATAKRI guidelines: https://um.fi/documents/35732/0/Katakri+-+2020_1218.pdf/ab9c2d4a-5031-3670-6743-3f8921dce8c9?t=1608302599246
 - VAHTI guidelines: https://www.suomidigi.fi/sites/default/files/2020-06/VM_25_2017.pdf
 
+## Risk Assesment
+- NIST SP 800-30: https://csrc.nist.gov/publications/detail/sp/800-30/rev-1/final [*] 
+
 ## Security Architechture
 - Endpoint security whitepaper: https://www.checkpoint.com/downloads/products/checkpoint-enterprise-security-framework-whitepaper.pdf
 - Vulnerability Management Maturity Model: https://www.sans.org/blog/vulnerability-management-maturity-model/
@@ -36,10 +40,10 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
 - Exploit Database: https://www.exploit-db.com/
 - Lockheed Martin Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+
 ## Auditing
 - Packetbomb wireshark packet analysis tutorials: https://packetbomb.com/
 - Malware traffic analysis: https://www.malware-traffic-analysis.net/
-
 
 ## Android and IoT
 - Android CVE vulnerability list: https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/cvssscoremin-9/cvssscoremax-/Google-Android.html
@@ -51,6 +55,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - OSINT Framework: https://osintframework.com/
 - Bellingcat research collective: https://www.bellingcat.com/
 - OSINT thread on reddit: https://www.reddit.com/r/OSINT/comments/c90jg7/what_are_some_good_ol_osint_tool_you_use_and_more/
+- Shodan Search engine: https://www.shodan.io/ [*]
 
 
 ## Logging
@@ -72,6 +77,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - COOP Brochure: https://www.fema.gov/pdf/about/org/ncp/coop_brochure.pdf
 - Intrusion Detection Diamond model: https://apps.dtic.mil/sti/citations/ADA586960
 - Master Service Agreement (MSA): https://www.upcounsel.com/master-service-agreement
+- HIPAA IoT Hippocratic Oath: https://www.hipaajournal.com/hippocratic-oath-for-connected-medical-devices-required-says-cybersecurity-association-8273/ [*]
 
 ## Windows related tools
 - Microsoft endpoint manager: https://www.microsoft.com/en-us/security/business/microsoft-endpoint-manager
@@ -86,6 +92,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 ## Online tools
 - Virustotal Online virus scanner: https://www.virustotal.com/gui/home/upload
 - Hybrid Analysis online virus scanner: https://www.hybrid-analysis.com/
+- IoT FCC Search: https://fccid.io/ [*]
 
 ## Other tools and links
 - Cuckoo malware sandbox: https://cuckoosandbox.org/
@@ -113,9 +120,17 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - FoxyProxy Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 - Security Onion & Proxmox SPAN: https://beyondtheory.io/blog/virtualization/security-onion-proxmox/
 
+## Excercises
+- PentesterLab: https://www.pentesterlab.com/exercises/ [*]
+- Hacking-lab: https://www.hacking-lab.com/index.html [*]
+- Exploit Excercises: https://exploit-exercises.com/ [*]
+
 ## Books and videos
 - Security engineering: https://www.wiley.com/en-us/Security+Engineering%3A+A+Guide+to+Building+Dependable+Distributed+Systems%2C+3rd+Edition-p-9781119642787
 - Guide to Obsidian.md: https://www.youtube.com/watch?v=47hOfPGsrqk
+
+## Training
+- Infosecinstitute: https://www.infosecinstitute.com/ [*]
 
 # Homelab
 - Proxmox virtualisation guide: https://medium.com/devops-dudes/proxmox-101-8204eb154cd5
