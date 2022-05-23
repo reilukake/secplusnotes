@@ -33,13 +33,23 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Database normalization: https://en.m.wikipedia.org/wiki/Database_normalization
 - Cert BFF Basic Fuzzing Framework: https://vuls.cert.org/confluence/display/tools/CERT+BFF+-+Basic+Fuzzing+Framework
 - Android SELinux: https://source.android.com/security/selinux
+- Scam monkey hardening list: https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/blue-defense/device-hardening
 
 ## Vulnerability
 - National vulnerability Datbase: https://nvd.nist.gov/
 - Mitre vulnerability database: https://cve.mitre.org/
 - Windows Security Bulletins: https://docs.microsoft.com/en-us/security-updates/
 - Exploit Database: https://www.exploit-db.com/
+
+## Threat modeling
+- Unified Kill chain Threat model: https://www.unifiedkillchain.com/
 - Lockheed Martin Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
+- Mitre ATT&CK: https://attack.mitre.org/
+
+### Threat feeds
+- Anomali STAXX STIX/TAXII -feed: https://www.anomali.com/resources/staxx
+- Threatfeeds.io, Open-source feeds: https://threatfeeds.io/
+- 
 
 ## Auditing
 - Packetbomb wireshark packet analysis tutorials: https://packetbomb.com/
@@ -56,7 +66,6 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Bellingcat research collective: https://www.bellingcat.com/
 - OSINT thread on reddit: https://www.reddit.com/r/OSINT/comments/c90jg7/what_are_some_good_ol_osint_tool_you_use_and_more/
 - Shodan Search engine: https://www.shodan.io/ [*]
-
 
 ## Logging
 - NXLog (Used with SIEM): https://nxlog.co/
@@ -88,7 +97,7 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - FTK Forensic tool: https://www.exterro.com/forensic-toolkit
 - CFReDS Portal - Forensic reference: https://cfreds.nist.gov/
 - OpenText EnCase: https://security.opentext.com/encase-forensic
-
+- SANS SIFT -Workstation: https://www.sans.org/tools/sift-workstation/
 ## Online tools
 - Virustotal Online virus scanner: https://www.virustotal.com/gui/home/upload
 - Hybrid Analysis online virus scanner: https://www.hybrid-analysis.com/
@@ -114,11 +123,14 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 - Home SIEM: https://dfirmadness.com/building-a-siem-at-home/
 - Suricata and Splunk tutorial: https://hurricanelabs.com/splunk-tutorials/your-all-in-one-guide-to-setting-up-pfsense-and-suricata-in-splunk/
 - Snort: https://www.snort.org/downloads
+- Awesome Selfhosted list: https://github.com/awesome-selfhosted/awesome-selfhosted
 - Awesome Security list: https://github.com/sbilly/awesome-security
 - OpenVAS Vulnerability scanner: https://openvas.org/
 - AlienVault OSSIM SIEM: https://cybersecurity.att.com/products/ossim
 - FoxyProxy Firefox Addon: https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/
 - Security Onion & Proxmox SPAN: https://beyondtheory.io/blog/virtualization/security-onion-proxmox/
+- Detection Lab: https://github.com/clong/DetectionLab
+- 
 
 ## Excercises
 - PentesterLab: https://www.pentesterlab.com/exercises/ [*]
@@ -144,3 +156,4 @@ Links backlogged during studying for CompTIA Security+. Also links for homelab p
 # Uncategorized (for now)
 - Domain Generation Algorithms (DGA): https://unit42.paloaltonetworks.com/threat-brief-understanding-domain-generation-algorithms-dga/
 - SecLists security fuzzer: https://github.com/danielmiessler/SecLists
+- Zeek Network Monitoring Tool: https://zeek.org/
